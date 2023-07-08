@@ -1,21 +1,19 @@
 
-### Aspirante a desenvolvedor Front-End
+### Desenvolvedor Front-End
 
-    Habilidades 🎇
+#Habilidades 🎇
 
-    
-    Proativo
-    Calmo
-    Resiliente
-    Silencioso
+Proativo
+Calmo
+Resiliente
+Comunicativo
     
 
   ###  O que faço no meu tempo livre👌
-    
-    Leitura
-    Estudo
-    Academia/Aeróbico
-    Filmes/Games
+Leitura
+Estudo
+Academia/Aeróbico
+Filmes/Games
     
 
 
